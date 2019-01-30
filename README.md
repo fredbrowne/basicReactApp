@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+###########################################################################
+This is a study of React and create-react-app based on NPM.
+Application was designed to show how to develop a React App
+using functions and JSX.
+###########################################################################
+
 ## Available Scripts
 
 In the project directory, you can run:
